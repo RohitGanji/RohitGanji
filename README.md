@@ -1,2 +1,1 @@
-Hi
-This is Rohit
+# Hey there, I'm Rohit Ganji!
