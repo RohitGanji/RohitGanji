@@ -16,9 +16,9 @@ Thanks for visiting my page. I hope my repositories help you. 💁<br> You may c
 
 
 ### Deep Learning
--[Bitcoin Price Prediction with Block Rewards and Historical Time Series Data](https://github.com/RohitGanji/bitcoin-price-prediction)
--[Film Genre Classification](https://www.kaggle.com/rohitganji13/film-genre-classification-using-nlp)
--[Medical Paper Abstractions Classification](https://github.com/RohitGanji/medical-paper-abstract-classification)
--[Sarcasm Detection from News Headlines](https://www.kaggle.com/rohitganji13/sarcasm-detection-95-accuracy)
--[Fine-Tuning DARTS](https://github.com/RohitGanji/fine-tuning-darts)
+- [Bitcoin Price Prediction with Block Rewards and Historical Time Series Data](https://github.com/RohitGanji/bitcoin-price-prediction)
+- [Film Genre Classification](https://www.kaggle.com/rohitganji13/film-genre-classification-using-nlp)
+- [Medical Paper Abstractions Classification](https://github.com/RohitGanji/medical-paper-abstract-classification)
+- [Sarcasm Detection from News Headlines](https://www.kaggle.com/rohitganji13/sarcasm-detection-95-accuracy)
+- [Fine-Tuning DARTS](https://github.com/RohitGanji/fine-tuning-darts)
 </td></tr></table>
