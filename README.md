@@ -21,4 +21,5 @@ Thanks for visiting my page. I hope my repositories help you. 💁<br> You may c
 - [Medical Paper Abstractions Classification](https://github.com/RohitGanji/medical-paper-abstract-classification)
 - [Sarcasm Detection from News Headlines](https://www.kaggle.com/rohitganji13/sarcasm-detection-95-accuracy)
 - [Fine-Tuning DARTS](https://github.com/RohitGanji/fine-tuning-darts)
+- [White Blood Cancer B-ALL/MM Classification using Transfer Learning](https://github.com/RohitGanji/white-blood-cancer-all-mm)
 </td></tr></table>
