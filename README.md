@@ -12,6 +12,12 @@ Thanks for visiting my page. I hope my repositories help you. 💁<br> You may c
 - [ZoomBot - Online Classes Attender](https://github.com/simonw/pids/releases/tag/0.1.2)
 - [WhatsApp Proxy API](https://github.com/simonw/datasette-verify/releases/tag/0.1)
 - [BitBot - Bitcoin Claimer](https://github.com/simonw/datasette/releases/tag/0.59a2)
+  
+  
+### Applications
+  
+- [NASA Rebuild](https://github.com/RohitGanji/nasa-spaceapps-challenge-2020)
+- [Aternos MINECRAFT App](https://github.com/RohitGanji/aternos-minecraft)
 </td><td valign="top" width="34%">
 
 
