@@ -30,4 +30,4 @@ Thanks for visiting my page. I hope my repositories help you. 💁<br> You may c
 - [White Blood Cancer B-ALL/MM Classification using Transfer Learning](https://github.com/RohitGanji/white-blood-cancer-all-mm)
 </td></tr></table>
 
-<img  align="left"  alt="nanduri1998's Github Stats"  src="https://github-readme-stats-prod.vercel.app/api?username=nanduri1998&show_icons=true&hide_border=true&count_private=true&theme=dark"  />
+<img  align="left"  alt="rohitganji's Github Stats"  src="https://github-readme-stats-prod.vercel.app/api?username=rohitganji&show_icons=true&hide_border=true&count_private=true&theme=dark"  />
