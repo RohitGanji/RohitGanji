@@ -5,10 +5,9 @@
 
 ### Web Scraping & Automation
   
-- [BitBot - Bitcoin Claimer](https://github.com/simonw/datasette/releases/tag/0.59a2)
-- [ZoomBot - Online Classes Attender](https://github.com/simonw/pids/releases/tag/0.1.2)
-- [COVID-19 Sputnik Vaccine Slot Informer](https://github.com/simonw/datasette-app-support/releases/tag/0.5)
-- [WhatsApp Proxy API](https://github.com/simonw/datasette-verify/releases/tag/0.1)
+- [BitBot - Bitcoin Claimer](https://github.com/RohitGanji/bitbot-bitcoin-claimer)
+- [ZoomBot - Online Classes Attender](https://github.com/RohitGanji/zoombot)
+- [COVID-19 Sputnik Vaccine Slot Informer](https://github.com/RohitGanji/cowin-vaccine-slot)
   
   
 ### Applications
