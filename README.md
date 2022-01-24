@@ -1,5 +1,7 @@
 # Hey there, I'm Rohit Ganji! 👋
 
+[Download CV](https://github.com/RohitGanji/aternos-minecraft)
+
 ## Projects
 <table><tr><td valign="top" width="33%">
 
