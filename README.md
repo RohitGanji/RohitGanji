@@ -1,5 +1,6 @@
 # Hey there, I'm Rohit Ganji! 👋
 
+## CV - https://drive.google.com/file/d/1avH--Nj3pfXgzgQCUUR8CnwXJsiwp9fJ/view?usp=sharing
 ## [Download Full CV](https://drive.google.com/file/d/1avH--Nj3pfXgzgQCUUR8CnwXJsiwp9fJ/view?usp=sharing)
 
 ## Projects
